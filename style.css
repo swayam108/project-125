@@ -1,0 +1,29 @@
+.heading{
+    font-size: 23px;
+    width: 95%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.NOTE{
+    font-size: 15px;
+    color: black;
+}
+.copyright_footer{
+    background-color: grey;
+    color: white;
+    box-shadow: black;
+    bottom: 0px;
+    border-radius: 8px;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+body{
+background-image: url("https://wallpaperaccess.com/full/2549395.jpg");
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
